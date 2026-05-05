@@ -107,7 +107,7 @@ The housing system can be modeled as:
 
 ---
 
-# 🏛️ 3. Government Strategy & Policy Actions
+#  3. Government Strategy & Policy Actions
 
 ---
 
